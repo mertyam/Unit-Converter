@@ -1,0 +1,14 @@
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\bin\Debug\net8.0\UnitConverter.exe
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\bin\Debug\net8.0\UnitConverter.deps.json
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\bin\Debug\net8.0\UnitConverter.runtimeconfig.json
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\bin\Debug\net8.0\UnitConverter.dll
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\bin\Debug\net8.0\UnitConverter.pdb
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\obj\Debug\net8.0\UnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\obj\Debug\net8.0\UnitConverter.AssemblyInfoInputs.cache
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\obj\Debug\net8.0\UnitConverter.AssemblyInfo.cs
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\obj\Debug\net8.0\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\obj\Debug\net8.0\UnitConverter.dll
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\obj\Debug\net8.0\refint\UnitConverter.dll
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\obj\Debug\net8.0\UnitConverter.pdb
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\obj\Debug\net8.0\UnitConverter.genruntimeconfig.cache
+C:\Users\Mert\OneDrive - BBBaden\BBB\UnitConverter\UnitConverter\obj\Debug\net8.0\ref\UnitConverter.dll
